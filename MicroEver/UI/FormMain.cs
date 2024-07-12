@@ -212,7 +212,7 @@ namespace UI
                 Instructions = txtOutput.Text,
                 Name = txtSearchTemplate.Text,
                 MealKind = GetSelectedMealKind(),
-                Dot = txtSearchTemplate.Text[0]
+                Dot = txtSearchTemplate.Text.Length > 0 ? txtSearchTemplate.Text[0] : '\0'
             };
 
             var ds = Wrap(() => _service.SaveTemplate(newJobTemplate));

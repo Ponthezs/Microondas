@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\ServiceNUnitTest\\ServiceNUnitTest.csproj": {}
+    "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\ServiceNUnitTest\\ServiceNUnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Domain\\Domain.csproj": {
+    "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\ponte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ponte\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,20 +56,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -82,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Repository\\Repository.csproj": {
+    "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\ponte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ponte\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -107,8 +93,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Domain\\Domain.csproj"
+              "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj"
               }
             }
           }
@@ -138,20 +124,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -161,14 +133,14 @@
         }
       }
     },
-    "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\ServiceNUnitTest\\ServiceNUnitTest.csproj": {
+    "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\ServiceNUnitTest\\ServiceNUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\ServiceNUnitTest\\ServiceNUnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\ServiceNUnitTest\\ServiceNUnitTest.csproj",
         "projectName": "ServiceNUnitTest",
-        "projectPath": "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\ServiceNUnitTest\\ServiceNUnitTest.csproj",
+        "projectPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\ServiceNUnitTest\\ServiceNUnitTest.csproj",
         "packagesPath": "C:\\Users\\ponte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\ServiceNUnitTest\\obj\\",
+        "outputPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\ServiceNUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ponte\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -186,14 +158,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Domain\\Domain.csproj"
+              "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Repository\\Repository.csproj"
+              "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Repository\\Repository.csproj"
               },
-              "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Service\\Service.csproj"
+              "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Service\\Service.csproj"
               }
             }
           }
@@ -237,20 +209,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -260,14 +218,14 @@
         }
       }
     },
-    "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Service\\Service.csproj": {
+    "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Service\\Service.csproj",
+        "projectPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\ponte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Service\\obj\\",
+        "outputPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ponte\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -285,8 +243,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Domain\\Domain.csproj"
+              "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj"
               }
             }
           }
@@ -316,20 +274,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

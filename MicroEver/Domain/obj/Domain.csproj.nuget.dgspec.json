@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Domain\\Domain.csproj": {}
+    "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Domain\\Domain.csproj": {
+    "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\ponte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ponte\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,20 +56,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "19wehPVn5mw=",
+  "dgSpecHash": "BEc0mc4hENo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ponte\\Downloads\\MicroWave-master\\MicroWave-master\\Domain\\Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ponte\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\ponte\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\ponte\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
