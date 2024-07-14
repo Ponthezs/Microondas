@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Base\\BaseJob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroEver\\Domain\\Base\\BaseJob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Repository\\DigitalMicroWaveRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroEver\\Repository\\DigitalMicroWaveRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Service\\DigitalMicroWaveService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroEver\\Service\\DigitalMicroWaveService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\UI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\UI\\FormMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroEver\\UI\\FormMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Base\\BaseJob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroEver\\Domain\\Base\\BaseJob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +30,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DigitalMicroWaveService.cs",
+              "DocumentMoniker": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Service\\DigitalMicroWaveService.cs",
+              "RelativeDocumentMoniker": "MicroEver\\Service\\DigitalMicroWaveService.cs",
+              "ToolTip": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Service\\DigitalMicroWaveService.cs",
+              "RelativeToolTip": "MicroEver\\Service\\DigitalMicroWaveService.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAIAwwFIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:29:34.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "DigitalMicroWaveRepository.cs",
               "DocumentMoniker": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Repository\\DigitalMicroWaveRepository.cs",
               "RelativeDocumentMoniker": "MicroEver\\Repository\\DigitalMicroWaveRepository.cs",
               "ToolTip": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Repository\\DigitalMicroWaveRepository.cs",
               "RelativeToolTip": "MicroEver\\Repository\\DigitalMicroWaveRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAIIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T00:54:22.876Z",
               "EditorCaption": ""
@@ -49,7 +66,7 @@
               "RelativeDocumentMoniker": "MicroEver\\UI\\Program.cs",
               "ToolTip": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\UI\\Program.cs",
               "RelativeToolTip": "MicroEver\\UI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T00:53:14.719Z",
               "EditorCaption": ""
@@ -62,23 +79,22 @@
               "RelativeDocumentMoniker": "MicroEver\\UI\\FormMain.cs",
               "ToolTip": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\UI\\FormMain.cs",
               "RelativeToolTip": "MicroEver\\UI\\FormMain.cs",
-              "ViewState": "AQIAAPgAAAAAAAAAAAAnwNcAAAAOAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAANcAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T00:51:00.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "BaseJob.cs",
               "DocumentMoniker": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Base\\BaseJob.cs",
               "RelativeDocumentMoniker": "MicroEver\\Domain\\Base\\BaseJob.cs",
               "ToolTip": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Base\\BaseJob.cs",
               "RelativeToolTip": "MicroEver\\Domain\\Base\\BaseJob.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T00:49:19.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T00:49:19.181Z"
             }
           ]
         }

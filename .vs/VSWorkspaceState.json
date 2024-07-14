@@ -6,6 +6,6 @@
     "\\MicroEver\\Repository",
     "\\MicroEver\\UI"
   ],
-  "SelectedNode": "\\MicroEver\\Domain",
+  "SelectedNode": "\\MicroEver\\Repository\\DigitalMicroWaveRepository.cs",
   "PreviewInSolutionExplorer": false
 }
