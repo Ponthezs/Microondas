@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj",
+      "projectPath": "D:\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\ponte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\obj\\",
+      "outputPath": "D:\\GitHub Projects\\Microondas\\MicroEver\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ponte\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -70,7 +70,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

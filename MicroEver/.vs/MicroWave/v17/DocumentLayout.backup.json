@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub Projects\\Microondas\\MicroEver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA1E804-6974-41FB-8159-B787BDD4D616}|ServiceNUnitTest\\ServiceNUnitTest.csproj|d:\\github projects\\microondas\\microever\\servicenunittest\\servicenunittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DA1E804-6974-41FB-8159-B787BDD4D616}|ServiceNUnitTest\\ServiceNUnitTest.csproj|solutionrelative:servicenunittest\\servicenunittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB72C2A-A007-4D69-A16E-A19C1B114A7B}|UI\\UI.csproj|d:\\github projects\\microondas\\microever\\ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FAB72C2A-A007-4D69-A16E-A19C1B114A7B}|UI\\UI.csproj|solutionrelative:ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB72C2A-A007-4D69-A16E-A19C1B114A7B}|UI\\UI.csproj|d:\\github projects\\microondas\\microever\\ui\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB72C2A-A007-4D69-A16E-A19C1B114A7B}|UI\\UI.csproj|solutionrelative:ui\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CBA66A-A21E-41A1-96B9-DF52253955AA}|Service\\Service.csproj|d:\\github projects\\microondas\\microever\\service\\digitalmicrowaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CBA66A-A21E-41A1-96B9-DF52253955AA}|Service\\Service.csproj|solutionrelative:service\\digitalmicrowaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB72C2A-A007-4D69-A16E-A19C1B114A7B}|UI\\UI.csproj|d:\\github projects\\microondas\\microever\\ui\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB72C2A-A007-4D69-A16E-A19C1B114A7B}|UI\\UI.csproj|solutionrelative:ui\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB72C2A-A007-4D69-A16E-A19C1B114A7B}|UI\\UI.csproj|d:\\github projects\\microondas\\microever\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB72C2A-A007-4D69-A16E-A19C1B114A7B}|UI\\UI.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB72C2A-A007-4D69-A16E-A19C1B114A7B}|UI\\UI.csproj|D:\\GitHub Projects\\Microondas\\MicroEver\\ui\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAB72C2A-A007-4D69-A16E-A19C1B114A7B}|UI\\UI.csproj|solutionrelative:ui\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96577DA-2FEA-4FD6-B7FC-AD5000CA3D77}|Repository\\Repository.csproj|d:\\github projects\\microondas\\microever\\repository\\digitalmicrowaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96577DA-2FEA-4FD6-B7FC-AD5000CA3D77}|Repository\\Repository.csproj|solutionrelative:repository\\digitalmicrowaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\Microondas\\MicroEver\\UI\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\FormMain.Designer.cs",
+              "ToolTip": "D:\\GitHub Projects\\Microondas\\MicroEver\\UI\\FormMain.Designer.cs",
+              "RelativeToolTip": "UI\\FormMain.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T00:46:29.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\Microondas\\MicroEver\\UI\\FormMain.cs",
+              "RelativeDocumentMoniker": "UI\\FormMain.cs",
+              "ToolTip": "D:\\GitHub Projects\\Microondas\\MicroEver\\UI\\FormMain.cs",
+              "RelativeToolTip": "UI\\FormMain.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAewNYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:24:01.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\Microondas\\MicroEver\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "UI\\Program.cs",
+              "ToolTip": "D:\\GitHub Projects\\Microondas\\MicroEver\\UI\\Program.cs",
+              "RelativeToolTip": "UI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:08:52.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub Projects\\Microondas\\MicroEver\\UI\\FormMain.cs",
+              "RelativeDocumentMoniker": "UI\\FormMain.cs",
+              "ToolTip": "D:\\GitHub Projects\\Microondas\\MicroEver\\UI\\FormMain.cs [Design]",
+              "RelativeToolTip": "UI\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:08:51.803Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DigitalMicroWaveService.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\Microondas\\MicroEver\\Service\\DigitalMicroWaveService.cs",
+              "RelativeDocumentMoniker": "Service\\DigitalMicroWaveService.cs",
+              "ToolTip": "D:\\GitHub Projects\\Microondas\\MicroEver\\Service\\DigitalMicroWaveService.cs",
+              "RelativeToolTip": "Service\\DigitalMicroWaveService.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAnwG8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:08:23.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DigitalMicroWaveRepository.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\Microondas\\MicroEver\\Repository\\DigitalMicroWaveRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\DigitalMicroWaveRepository.cs",
+              "ToolTip": "D:\\GitHub Projects\\Microondas\\MicroEver\\Repository\\DigitalMicroWaveRepository.cs",
+              "RelativeToolTip": "Repository\\DigitalMicroWaveRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:08:19.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceNUnitTest.csproj",
+              "DocumentMoniker": "D:\\GitHub Projects\\Microondas\\MicroEver\\ServiceNUnitTest\\ServiceNUnitTest.csproj",
+              "RelativeDocumentMoniker": "ServiceNUnitTest\\ServiceNUnitTest.csproj",
+              "ToolTip": "D:\\GitHub Projects\\Microondas\\MicroEver\\ServiceNUnitTest\\ServiceNUnitTest.csproj",
+              "RelativeToolTip": "ServiceNUnitTest\\ServiceNUnitTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T23:08:01.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UI.csproj",
+              "DocumentMoniker": "D:\\GitHub Projects\\Microondas\\MicroEver\\UI\\UI.csproj",
+              "RelativeDocumentMoniker": "UI\\UI.csproj",
+              "ToolTip": "D:\\GitHub Projects\\Microondas\\MicroEver\\UI\\UI.csproj",
+              "RelativeToolTip": "UI\\UI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T23:08:01.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

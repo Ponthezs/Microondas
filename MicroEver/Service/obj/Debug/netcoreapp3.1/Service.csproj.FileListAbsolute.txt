@@ -25,3 +25,17 @@ C:\Users\ponte\OneDrive\Documentos\GitHub Projects\Microondas\MicroEver\Service\
 C:\Users\ponte\OneDrive\Documentos\GitHub Projects\Microondas\MicroEver\Service\obj\Debug\netcoreapp3.1\Service.csproj.Up2Date
 C:\Users\ponte\OneDrive\Documentos\GitHub Projects\Microondas\MicroEver\Service\obj\Debug\netcoreapp3.1\Service.dll
 C:\Users\ponte\OneDrive\Documentos\GitHub Projects\Microondas\MicroEver\Service\obj\Debug\netcoreapp3.1\Service.pdb
+D:\GitHub Projects\Microondas\MicroEver\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\GitHub Projects\Microondas\MicroEver\Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\GitHub Projects\Microondas\MicroEver\Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\GitHub Projects\Microondas\MicroEver\Service\bin\Debug\netcoreapp3.1\Domain.dll
+D:\GitHub Projects\Microondas\MicroEver\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\GitHub Projects\Microondas\MicroEver\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+D:\GitHub Projects\Microondas\MicroEver\Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Projects\Microondas\MicroEver\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\GitHub Projects\Microondas\MicroEver\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\GitHub Projects\Microondas\MicroEver\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\Microondas\MicroEver\Service\obj\Debug\netcoreapp3.1\Service.sourcelink.json
+D:\GitHub Projects\Microondas\MicroEver\Service\obj\Debug\netcoreapp3.1\Service.csproj.Up2Date
+D:\GitHub Projects\Microondas\MicroEver\Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\GitHub Projects\Microondas\MicroEver\Service\obj\Debug\netcoreapp3.1\Service.pdb

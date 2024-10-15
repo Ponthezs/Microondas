@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Repository\\Repository.csproj": {}
+    "D:\\GitHub Projects\\Microondas\\MicroEver\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj": {
+    "D:\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj",
+        "projectPath": "D:\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\ponte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\obj\\",
+        "outputPath": "D:\\GitHub Projects\\Microondas\\MicroEver\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ponte\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,18 +64,18 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Repository\\Repository.csproj": {
+    "D:\\GitHub Projects\\Microondas\\MicroEver\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Repository\\Repository.csproj",
+        "projectUniqueName": "D:\\GitHub Projects\\Microondas\\MicroEver\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Repository\\Repository.csproj",
+        "projectPath": "D:\\GitHub Projects\\Microondas\\MicroEver\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\ponte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Repository\\obj\\",
+        "outputPath": "D:\\GitHub Projects\\Microondas\\MicroEver\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ponte\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,8 +93,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj"
+              "D:\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\GitHub Projects\\Microondas\\MicroEver\\Domain\\Domain.csproj"
               }
             }
           }
@@ -129,7 +129,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

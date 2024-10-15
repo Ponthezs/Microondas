@@ -17,3 +17,13 @@ C:\Users\ponte\OneDrive\Documentos\GitHub Projects\Microondas\MicroEver\Domain\o
 C:\Users\ponte\OneDrive\Documentos\GitHub Projects\Microondas\MicroEver\Domain\obj\Debug\netcoreapp3.1\Domain.sourcelink.json
 C:\Users\ponte\OneDrive\Documentos\GitHub Projects\Microondas\MicroEver\Domain\obj\Debug\netcoreapp3.1\Domain.dll
 C:\Users\ponte\OneDrive\Documentos\GitHub Projects\Microondas\MicroEver\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\GitHub Projects\Microondas\MicroEver\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\GitHub Projects\Microondas\MicroEver\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\GitHub Projects\Microondas\MicroEver\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\GitHub Projects\Microondas\MicroEver\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Projects\Microondas\MicroEver\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\GitHub Projects\Microondas\MicroEver\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\GitHub Projects\Microondas\MicroEver\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\Microondas\MicroEver\Domain\obj\Debug\netcoreapp3.1\Domain.sourcelink.json
+D:\GitHub Projects\Microondas\MicroEver\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\GitHub Projects\Microondas\MicroEver\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O9P7wnmHsk8=",
+  "dgSpecHash": "rZwhdpjPHBc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\Microondas\\MicroEver\\UI\\UI.csproj",
+  "projectFilePath": "D:\\GitHub Projects\\Microondas\\MicroEver\\UI\\UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ponte\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.2\\microsoft.extensions.configuration.3.1.2.nupkg.sha512",
     "C:\\Users\\ponte\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.2\\microsoft.extensions.configuration.abstractions.3.1.2.nupkg.sha512",
